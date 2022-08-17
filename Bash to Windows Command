@@ -1,0 +1,15 @@
+Action              	              Mac/Linux Command	                     Windows Command
+List files/directories	                 ls	                                     dir
+Print working directory                	pwd	                                  chdir
+Change directory                      	cd	                                cd
+Create new directory	                   mkdir                                	md
+Create new file                      	touch	                       echo "hello world" > hello.txt
+Clear screen	                        clear	                                cls
+View contents of an individual file   	cat                                 	type
+Copy file or directory	                cp	                                  copy
+Move files (without making copy)      	mv	                                  ren
+Delete files or directories          	rm	                                    del 
+Redirect output	                       >                                       	>
+Pipe, or transfer, output             	|	                                      |
+Append output to another file	         >>                                       >>
+Search files for a pattern match	    grep	                                   find
