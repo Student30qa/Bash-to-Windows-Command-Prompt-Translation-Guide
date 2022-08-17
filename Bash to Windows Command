@@ -13,3 +13,6 @@ Redirect output	                       >                                       	
 Pipe, or transfer, output             	|	                                      |
 Append output to another file	         >>                                       >>
 Search files for a pattern match	    grep	                                   find
+View all environment variables         	env	                                   set
+Set an environment variable       	export VAR=value            	setx variable value (administrator mode)
+Print specific variable	              echo $VAR	                            echo %VAR%
